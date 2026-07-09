@@ -1,0 +1,26 @@
+orderid,cust,age,prod,qty,price,city
+O001,Arun,22,Laptop,1,55000,Chennai
+O002,Priya,28,Mobile,2,18000,Madurai
+O003,Rahul,35,Headphones,3,2500,Coimbatore
+O004,Sneha,42,Smart Watch,1,12000,Trichy
+O005,Karthik,25,Tablet,1,28000,Salem
+O006,Divya,31,Camera,1,45000,Erode
+O007,Ajay,45,Printer,2,8500,Chennai
+O008,Meena,27,Laptop,1,62000,Madurai
+O009,Vikram,38,Mobile,2,22000,Coimbatore
+O010,Anu,29,Earbuds,4,1800,Trichy
+O011,Sanjay,50,Monitor,1,17000,Salem
+O012,Kavya,24,Keyboard,2,1500,Erode
+O013,Naveen,33,Mouse,3,800,Chennai
+O014,Reshma,41,Laptop,1,70000,Madurai
+O015,Deepak,36,Mobile,2,26000,Coimbatore
+O016,Harini,23,Speaker,2,3500,Trichy
+O017,Prakash,39,Camera,1,52000,Salem
+O018,Nisha,26,Tablet,1,30000,Erode
+O019,Ramesh,47,Smart Watch,2,14000,Chennai
+O020,Keerthi,32,Printer,1,9000,Madurai
+O021,Suresh,21,Earbuds,3,2000,Coimbatore
+O022,Aishwarya,37,Monitor,1,19500,Trichy
+O023,Manoj,30,Keyboard,2,1700,Salem
+O024,Swathi,44,Laptop,1,68000,Erode
+O025,Bharath,29,Mobile,2,21000,Chennai
